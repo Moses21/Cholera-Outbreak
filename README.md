@@ -41,5 +41,7 @@ Steady increase in number of cholera cases, the figure reached peak periods arou
 ## Conclusion
 The pandemic had devastating impacts on the lives of so many across the world, a lot of which still affects people to this day. This analysis was meant to explore various patterns and generate insights from the mass of information that was available surrounding the global pandemic and the virus.
 
+![](thankyou.png)
+
 
 

@@ -1,1 +1,2 @@
-# Cholera Outbreak Analysis and Visualization 
+# Cholera Outbreak Analysis
+![](dataset-cover.jpg)
